@@ -56,5 +56,8 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "recursive-calc-element-coords": "^1.0.4"
+  }
 }
