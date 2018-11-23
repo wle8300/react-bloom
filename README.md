@@ -4,7 +4,7 @@
 
 [![NPM](https://img.shields.io/npm/v/react-bloom.svg)](https://www.npmjs.com/package/react-bloom) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-![screenshot](./screenshot.gif)
+![screenshot](screenshot.gif)
 
 React component that gives you a "blooming" effect when you click/tap. Easy to use, and customize.
 
