@@ -40,6 +40,16 @@ class Example extends Component {
 }
 ```
 
+## API
+
+- __bloomSize__ [PropTypes.number] Pixel units. Default `100`
+- __animationMs__ [PropTypes.number] Milliseconds for bloom expansion
+- __disappearCompound__ [PropTypes.number] Multiplier for fade. If "animationMs" is 850ms, and "disappearCompound" is 2, the fadeaway duration will be 1700ms
+- __backgroundColor__ [PropTypes.string] Takes standard web color strings (ex: hex, rgba, hsl, etc)
+- __opacity__ [PropTypes.number] The opacity of the bloom. Default is `0.5`
+- __transitionTiming__ [PropTypes.string] Like "linear", "cubic-bezier(0.215, 0.61, 0.355, 1)", "ease-in", etc. Default is "cubic-bezier(0.215, 0.61, 0.355, 1)"
+- __style__ [PropTypes.object] Standard React style objects
+
 ## License
 
 MIT © [wle8300](https://github.com/wle8300)
